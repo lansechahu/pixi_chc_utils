@@ -1,0 +1,6 @@
+##ignore this file##
+
+node_modules/
+jspm_packages/
+build/package.json
+.idea/
